@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @magicalAttacker
 - 👀 I’m interested in JAVA
-- 🌱 I’m currently learning VUE, Spring boot and MySql
+- 🌱 I’m currently learning VUE, Spring boot and MySQL
 - 💞️ I’m looking to collaborate on developing a world wide famous app focus on connecting the people by the new method.
 - 📫 How to reach me? Don' t reach me now.
 
